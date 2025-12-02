@@ -5,7 +5,8 @@
 <br>
 
 
-## Team 20 Group Members
+
+## Team 20 Group Members (Alphabetical Order)
 
 - **James Clawson** - [@j-clawson](https://github.com/j-clawson)
 - **Stanley Hsu** - [@stanleyhsu123](https://github.com/stanleyhsu123)
