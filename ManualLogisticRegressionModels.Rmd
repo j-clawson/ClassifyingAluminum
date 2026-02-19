@@ -1,5 +1,5 @@
 ---
-title: "Stats 101C Final"
+title: "Manual Logistic Regression Models"
 output: html_document
 date: "2025-11-28"
 ---
@@ -63,6 +63,7 @@ output <- data.frame(aluminum_coldRoll_testNoY$ID,pred1)
 names(output) <- c("ID", "y_passXtremeDurability")
 write.csv(output,row.names=FALSE, "output.csv")
 ```
+
 
 
 
